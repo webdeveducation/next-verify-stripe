@@ -1,0 +1,19 @@
+{
+  "name": "@webdeveducation/next-verify-stripe",
+  "version": "1.0.0",
+  "description": "A simple function to verify a stripe signature and return the event within next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdeveducation/next-verify-stripe.git"
+  },
+  "author": "WebDevEducation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdeveducation/next-verify-stripe/issues"
+  },
+  "homepage": "https://github.com/webdeveducation/next-verify-stripe#readme"
+}
