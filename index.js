@@ -19,4 +19,4 @@ const verifyStripe = async ({ req, stripe, endpointSecret }) => {
   return event;
 };
 
-export default verifyStripe;
+module.exports = verifyStripe;
