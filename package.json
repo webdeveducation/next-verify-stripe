@@ -1,6 +1,6 @@
 {
   "name": "@webdeveducation/next-verify-stripe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function to verify a stripe signature and return the event within next js",
   "main": "index.js",
   "scripts": {
